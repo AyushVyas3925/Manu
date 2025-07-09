@@ -1,0 +1,31 @@
+[2025-06-23 13:41:48] CMD: get weather => RESULT: Weather in jaipur:
+Temperature: 34.51�C
+Condition: overcast clouds
+Humidity: 49%
+[2025-06-23 14:02:15] CMD: play goat by diljit dosanjh => RESULT: ▶️ Playing 'goat by diljit dosanjh' on YouTube
+[2025-06-23 14:05:24] CMD: play love dose by honey => RESULT: ▶️ Playing 'love dose by honey' on YouTube
+[2025-06-23 14:07:42] CMD: who is the prime minister of india => RESULT: Sorry, I didn't understand the command.
+[2025-06-23 14:08:08] CMD: search who is the prime minister of india => RESULT: 🔎 Googled: who is the prime minister of india
+[2025-06-23 14:09:33] CMD: message on whatsapp => RESULT: ✅ Message sent to +918000: hay how r u
+[2025-06-24 07:33:46] CMD: play hanuman chalisa by => RESULT: ▶️ Playing 'hanuman chalisa by' on YouTube
+[2025-06-24 07:34:44] CMD: get weather => RESULT: Weather in jaipur:
+Temperature: 30.2°C
+Condition: clear sky
+Humidity: 74%
+[2025-06-24 07:35:04] CMD: notepad => RESULT: Opening notepad...
+[2025-06-24 07:35:26] CMD: open => RESULT: Sorry, I didn't understand the command.
+[2025-06-24 07:35:59] CMD: open chrome => RESULT: Opening notepad...
+[2025-06-24 07:36:20] CMD: open calculator => RESULT: Opening notepad...
+[2025-06-24 07:37:42] CMD: open calculator => RESULT: Opening notepad...
+[2025-06-24 07:39:44] CMD: open calculator => RESULT: Command error: open_app() missing 1 required positional argument: 'app_name'
+[2025-06-24 12:11:12] CMD: calender => RESULT: ❌ Unknown or unsupported Linux command.
+[2025-06-24 12:11:59] CMD: system date => RESULT: 🔴 SSH Error: ssh: connect to host 192.168.1.100 port 22: Connection timed out
+
+[2025-06-24 12:13:26] CMD: cal => RESULT: ❌ Unknown or unsupported Linux command.
+[2025-06-24 12:13:46] CMD: system date => RESULT: Tue Jun 24 12:13:39 PM IST 2025
+
+[2025-06-24 12:15:08] CMD: address => RESULT: ❌ Unknown or unsupported Linux command.
+[2025-06-24 12:17:53] CMD: play => RESULT: ▶️ Playing 'lofi music' on YouTube
+[2025-06-24 12:19:43] CMD: open calculator => RESULT: Command error: name 'app' is not defined
+[2025-06-24 12:20:48] CMD: open calculator => RESULT: App 'open calculator' not supported yet.
+[2025-06-24 12:26:21] CMD: open calculator => RESULT: Opening calculator...
